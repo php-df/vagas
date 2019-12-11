@@ -14,7 +14,7 @@ Repositório destinado a divulgação de vagas, templates, guias e orientação 
 
 ## :handshake: Contribuindo
 
- * Se você perceber que algo esta errado, [abra uma issue no GitHub](https://github.com/php-df/vagas/issues).
+ * Se você perceber que algo esta errado, [abra uma issue no GitHub](https://github.com/php-df/vagas/issues/new/choose).
 
  * Você mesmo pode consertar, simplesmente [edite o arquivo no GitHub](https://github.com/php-df/vagas/edit/master/Readme.MD) e abra um novo pull request. O repositório será atualizado assim que o seu pull request for aceito!
 

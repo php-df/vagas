@@ -8,6 +8,10 @@
 
 Repositório destinado a divulgação de vagas, templates, guias e orientação sobre como divulgar vagas PHP mantido comunidade PHPDF.
 
+## Templates
+
+- [Template para divulgação do repositório](./templates/divulgacao_repositorio.md)
+
 ## :handshake: Contribuindo
 
  * Se você perceber que algo esta errado, [abra uma issue no GitHub](https://github.com/php-df/vagas/issues).

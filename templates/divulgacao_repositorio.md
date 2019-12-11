@@ -1,6 +1,5 @@
-Template de divulgação do repositório
+Template para divulgação do repositório
 ======
-
 
 Galera, agora temos um repositório **exclusivo** para **divulgação**, criação de **templates**, **guias** e **orientação** sobre **vagas PHP** !
 

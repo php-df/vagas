@@ -6,7 +6,7 @@
 
 # Vagas
 
-Repositório destinado a disponibilizar divulgar de vagas, templates e orientação sobre como divulgar vagas na comunidade PHP DF.
+Repositório destinado a divulgação de vagas, templates, guias e orientação sobre como divulgar vagas PHP mantido comunidade PHPDF.
 
 ## :handshake: Contribuindo
 

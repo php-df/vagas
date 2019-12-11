@@ -1,3 +1,9 @@
+<div align="center">
+
+![Vagas](./vagas.png)
+
+</div>
+
 # Vagas
 
 Repositório destinado a disponibilizar divulgar de vagas, templates e orientação sobre como divulgar vagas na comunidade PHP DF.
